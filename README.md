@@ -1,0 +1,1 @@
+This program reads unicode configuration files from multiple versions of Unicode and in a context of internationalized domain names do a diff, including warn for code points that needs manual review.
